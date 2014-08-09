@@ -259,7 +259,7 @@ define([
 
 			// Setup Scene JS
 			SceneJS.setConfigs({
-				pluginPath: "scenejs2/js/lib/scenejs/plugins"
+				pluginPath: "js/lib/scenejs/plugins"
 			});
 
 			this.nodeCamera.nodes.push(this.blueGrid);
